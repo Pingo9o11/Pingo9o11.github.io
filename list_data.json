@@ -1,22 +1,22 @@
 {
-	"movies": [
+	"Workout Routine": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Days": "Monday - Tuesday : Chest & Tricep",
+			"Reps": "10 - 12",
+			"Failure": "Yes",
+			"Weight Range (Kg)": "50 - 100"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Days": "Wednesday - Thursday : Back & Bicep",
+			"Reps": "12 - 14",
+			"Failure": "No",
+			"Weight Range (Kg)": "20 - 80"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Days": "Friday - Saturday : Legs & Shoulder",
+			"Reps": "8 - 12",
+			"Failure": "Yes",
+			"Weight Range (Kg)": "50 - 120"
 		}
 	]
 }
